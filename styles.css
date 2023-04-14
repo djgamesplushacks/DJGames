@@ -1,8 +1,13 @@
 /* Place your CSS styles in this file */
-
 h1 {
     background-color: blue;
     text-align: center;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
 }
+p1 {
+    background-color: red;
+    text-align: left;
+    font-family: "Source Sans Pro", sans-serif;
+    text-color: blue;
+    
